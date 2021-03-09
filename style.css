@@ -1,0 +1,29 @@
+body{
+  max-width: 1000px;
+  margin: 15px auto 15px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  font-family: 'Titillium Web', sans-serif;
+  border-bottom: 5px solid red;
+  margin-bottom: 10px;
+}
+
+h2{
+  font-family: 'Titillium Web', sans-serif;
+  margin-bottom: 5px;
+}
+
+p{
+  margin-top: 0px;
+}
+
+.two_columns{
+  column-count: 2;
+}
+
+.titulo{
+  font-size: 60;
+  text-align: center;
+}
