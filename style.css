@@ -19,6 +19,7 @@ p{
   margin-top: 0px;
 }
 
+
 .two_columns{
   column-count: 2;
 }
@@ -26,4 +27,5 @@ p{
 .titulo{
   font-size: 60;
   text-align: center;
+  border-bottom: none;
 }
